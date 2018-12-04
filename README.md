@@ -1,6 +1,7 @@
 # JavaScript-functionality-import-in-table-from-a-json-file
 Create a responsive html page with javascript-only functionality and create / import a table from a json file taken from the provided url
 asigment vireo: https://youtu.be/tUfyg_neK3o
+json: https://websitepr.eu/banner/tsk/data.json
 
 A S I G M E N T:
 
