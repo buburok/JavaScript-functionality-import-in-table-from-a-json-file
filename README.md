@@ -5,7 +5,7 @@ json: https://websitepr.eu/banner/tsk/data.json
 
 A S I G M E N T:
 
-# HTML/CSS/JS TEST SPECIFICATION AND REQUIREMENTS
+# HTML/CSS/JS SPECIFICATION AND REQUIREMENTS
 
 ## Page UI
 
