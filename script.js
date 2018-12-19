@@ -48,4 +48,25 @@ $.get('https://websitepr.eu/banner/tsk/data.json', function (data){
 		
 	});
 	$('#pagination .page-number:nth-child(26n)').each(function() {$(this).before('<br><p></p>')});
-})	
+})
+
+/*
+
+jQuery(function (){
+    var $orders = $('#orders');
+
+    jQuery.ajax({
+type:'get',
+url: 'https://websitepr.eu/banner/tsk/data.json',
+success: function(data){
+    console.log('success' , data);
+    jQuery.each(data, function(i, data){
+    $orders.append('<li> name: '+ data["FIrst Name"] +', drink: '+data["Last Name"]+'</li>');
+    
+    });
+    
+    }
+    
+    });
+    });
+*/
